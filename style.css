@@ -18,6 +18,19 @@ body {
     left: 12px;
 }
 
+.about-img {
+    width: auto;
+    height: 100%;
+    position: relative;
+    margin-bottom: 50%;
+    margin-top: -10%;
+    margin-left: 9%;
+}
+
+.about-text {
+    position: absolute;
+}
+
 .slide {
     width: 100vw;
     height: 100vh;
