@@ -54,9 +54,11 @@ body {
     transform: rotate(-90deg) translateX(-100vh);
     transform-origin: top left;
     scrollbar-width: none;
+    display: inline-block;
     -ms-overflow-style: none;
     overflow-y: scroll;
     overflow-x: hidden;
+    position: absolute;
 }
 
 ::-webkit-scrollbar {
